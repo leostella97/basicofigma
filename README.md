@@ -103,3 +103,32 @@ Explicação básica do programa Figma para trabalhos em UX
 • Na seção da direita com algum elemento selecionado, a opção auto layout ajusta a posição automático como cima, baixo, centro etc, caso queira fechar mais a caixa, em cima ao lado do frame tem a posição de auto ajustar
 <br>
 • Lembre-se que é feito no sistema de emplilhagem, caso coloque uma layer que está abaixo na lista de layers na cima no design, ela ficara para trás, é necessário também colocar acima na lista de layer
+<h5>COMPONENTE MASTER</h5>
+• cria um único arquivo e faz filhos, podendo editar o pai para os filhos pegar a edição, facilita muito se tiver milhares de itens iguais que precisam da mesma edição em lugares diferentes
+<br>
+• O componente master pode estar em outra page para organizar de uma maneira melhor
+<br>
+• botão direito no elemento ou algo que queira transformar em componente master e clicar em "Criar Componente" no menu de opções
+<br>
+• Lembrando que o componente master tem um losango preenchido na seção de layer e o filho um losango vazio
+<br>
+• A edição do filho não atinge os demais, para editar os outros simultaneamente precisa editar o componente master pai
+<br>
+• Para ir até o componente master pai mais rápido, é possível no menu lateral direito onde está escrito "nav" clicar no losangulo preenchido, o leva direto ao componente principal
+<br>
+• é possível criar uma variação do master, pode ter dois tipos de variações
+<br>
+• A primeira, duplicando o master desejado, botão direito>"Separar Instância(Detach Instance)" para não ser mais filho e renomear as instâncias como por exemplo "nav / xyz", renomeando assim a cada alteração, por exemplo "nav / Vermelho / Grande / Redondo / ..." e após concluído, clicar com o botão direito na nova instância feita e "Criar Componente"
+<br>
+• Agora, no wireframe, clicando na instância filha ao lado direito aparece o nome da instância que, clicando nela mostra as variações
+<br>
+<h5>INTERAÇÕES DE COMPONENTE</h5>
+• Pode ser clique, hover, interação com gamepad entre outros
+<br>
+• Duplica o componente desejado tendo dois dele, pode ter nomes diferentes
+<br>
+• botão direito>"Criar Componente(Create Component)" nos dois
+<br>
+• Seleciona os dois e na seção a direita, clicar em "combinar como Variante(Combine as Variant)"
+<br>
+• Clicando em algum objetivo, surge a opção de "ligação(hug)" para outro elemento/componente que coloca onde quer que a ação vá, então, na aba de Protótipos(Prototypes) na seção a direita surge a área de "Interações(Interactions)"
