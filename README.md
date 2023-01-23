@@ -18,7 +18,7 @@ Explicação básica do programa Figma para trabalhos em UX
 • A linha(line) seguindo os padrões, também possue a proporção com o shift, ao lado direito com ela selecionada, é possível ver outros estilos da linha, como seta, seta reversa, circular entre outros
 <br>
 • A última opção, "coloque a imagem(place image)" como o próprio nome diz, insere uma imagem ao projeto
-<h5>Slices -</h5>
+<h5>SLICES -</h5>
 • Traduzido para o portugês, com o significado de "fatias", "pedaços", "porção" etc
 <br>
 • Para selecionar, no menu superior do projeto, clicando no 'jogo da velha', escolher a última opção com o nome de "Slice" 
