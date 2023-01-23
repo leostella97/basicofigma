@@ -17,6 +17,8 @@ Explicação básica do programa Figma para trabalhos em UX
 • A linha(line) seguindo os padrões, também possue a proporção com o shift, ao lado direito com ela selecionada, é possível ver outros estilos da linha, como seta, seta reversa, circular entre outros
 <br>
 • A última opção, "coloque a imagem(place image)" como o próprio nome diz, insere uma imagem ao projeto
+<br>
+• Caso precise criar um frame(quadrado com o fundo de cor x) clique no "jogo da velha" no menu do projeto
 <h5>SLICES -</h5>
 • Traduzido para o portugês, com o significado de "fatias", "pedaços", "porção" etc
 <br>
@@ -30,7 +32,7 @@ Explicação básica do programa Figma para trabalhos em UX
 <br>
 • Para exportar o slice precisa selecionar o slice desejado e não o frame por inteiro, quando selecionado aparecerá a opção exportar(export) a direita, caso seleciona mais de um slice é exportado em arquivo separado
 <br>
-<h5>PEN TOOL</h5>h5>
+<h5>PEN TOOL</h5>
 • tradução literal, "ferramenta de caneta"
 <br>
 • Pens e pencil (lápis e caneta)
@@ -85,3 +87,19 @@ Explicação básica do programa Figma para trabalhos em UX
 <br>
 • Clicando no topo do comentário é possível move-lo para o local desejado, mas mantendo o comentário no local do design
 <br>
+<h5>NAVEGAÇÃO LATERAL</h5>
+• A aba lateral é onde se concentra as layers, os assets e logo abaixo tem a busca para pesquisar alguma layer ou algo do tipo
+<br>
+• O page a direita é o projeto que está atualmente, é aconselhável criar páginas separadas para cada projeto para ter uma melhor organização
+<br>
+• clicando na página atual, mostra ao lado do título "Páginas" o botão de mais(+) para acrescentar mais uma página
+<br>
+• Clicando com o botão direito em alguma página, aparece a opção de copiar o link para mandar a alguém, deletar, renomear e duplicar
+<br>
+• Também é possível criar componente master clicando com o botão direito no elemento desejado>selecionar frame>criar componente, quando o seleciona, em volta fica na cor lilás no lugar do azul, determinando que é o componente master
+<br>
+• Se duplicar o componente master, ele comtinua sendo master, mas é o filho, na esquerda na seção das layers o componente master é um losango com preenchimento, um filho é um losango sem o preenchimento
+<br>
+• Na seção da direita com algum elemento selecionado, a opção auto layout ajusta a posição automático como cima, baixo, centro etc, caso queira fechar mais a caixa, em cima ao lado do frame tem a posição de auto ajustar
+<br>
+• Lembre-se que é feito no sistema de emplilhagem, caso coloque uma layer que está abaixo na lista de layers na cima no design, ela ficara para trás, é necessário também colocar acima na lista de layer
