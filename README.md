@@ -66,7 +66,7 @@ Explicação básica do programa Figma para trabalhos em UX
 <br>
 • Na opção de tamanho da fonte, pode escolher o tamanho desejado, caso pressione shift será aumentado de 8 em 8
 <br>
-<h5>ADICIONAR COMENTÁRIOS</h5>
+<h5>COMENTÁRIOS</h5>
 • No menu do projeto, último ícone tem um 'balãozinho' para adicionar umm comentário, deixando o mouse em cima dá o aviso "Adicionar comentário"
 <br>
 • A partir do momento em que clica na ferramenta de comentário, abre uma seção ao lado direito, possível fazer a busca de algum comentário, configurar algumas opções entre outros
