@@ -30,3 +30,29 @@ Explicação básica do programa Figma para trabalhos em UX
 • Para ajusta-lo caso necessário, precisa seleciona-lo na área de layers para possibilitar a edição do corte
 <br>
 • Para exportar o slice precisa selecionar o slice desejado e não o frame por inteiro, quando selecionado aparecerá a opção exportar(export) a direita, caso seleciona mais de um slice é exportado em arquivo separado
+<br>
+<h5>PEN TOOL</h5>h5>
+• tradução literal, "ferramenta de caneta"
+<br>
+• Pens e pencil (lápis e caneta)
+<br>
+• Existe muita diferença de lápis e caneta
+<br>
+• Um lápis é mais simples, menos configuração, para escolhe-lo clica na caneta ao lado do quadrado e texto
+<br>
+• Clicando e arrastando permite desenhar mão livre
+<br>
+• Ao pressionar a tecla shift desenha em linha reta, podendo fazer qualquer coisa
+<br>
+• com duplo clique em uma linha desejada abre ancoras, podendo trabalhar com elas
+<br>
+• A pen(caneta) dá mais opções que o lápis
+<br>
+• para seleciona-lo, escolha no menu do projeto ao lado do quadrado e texto
+<br>
+• se clicar e arrastar, desenha uma linha continua, não habilitando o desenho livre mas, dando ancoras nas pontas, clicando em cima da linha dá mais uma opção de ancora
+<br>
+• Clicando com dois cliques em cima da linha volta para o modo de edição
+<br>
+• Para fazer uma linha curvada, seleciona no menu de projeto acima na ferramenta de curvatura, ao lado da caneta e, clicando na ancora desejada, fazendo uma curva perfeita, podendo trabalhar com ela inteira ou nas arestas separadas
+<br>
