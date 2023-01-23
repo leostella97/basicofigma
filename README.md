@@ -1,7 +1,6 @@
 # basicofigma
 Explicação básica do programa Figma para trabalhos em UX
 <h3>Figma</h3>
-<br>
 <h5>SHAPES -</h5>
 • Traduzido para português, significa "formas"
 <br>
@@ -66,4 +65,23 @@ Explicação básica do programa Figma para trabalhos em UX
 • Na seção ao lado direito, a opção de "Altura Fixa" permanece a caixa estática, com a "Altura Automatica" acompanha a digitação aumentando a caixa conforme for preciso
 <br>
 • Na opção de tamanho da fonte, pode escolher o tamanho desejado, caso pressione shift será aumentado de 8 em 8
+<br>
+<h5>ADICIONAR COMENTÁRIOS</h5>
+• No menu do projeto, último ícone tem um 'balãozinho' para adicionar umm comentário, deixando o mouse em cima dá o aviso "Adicionar comentário"
+<br>
+• A partir do momento em que clica na ferramenta de comentário, abre uma seção ao lado direito, possível fazer a busca de algum comentário, configurar algumas opções entre outros
+<br>
+• Para adicionar um comentário, pode simplismente clicar no local desejado e escrever o comentário e clicar na setinha para cima com o fundo azul para confirmar
+<br>
+• O comentário por extenso não é visível, na área comentada aparece sua imagem de perfil e, passando o moouse por cima o abre e, a direita an seção de comentpario mostra o comentário por extenso
+<br>
+• É possível reagir ao comentário e comentar o comentário
+<br>
+• Com o comentário aberto, na parte superior é possível somente fechar ou clicar em resolver para o comentário sumir
+<br>
+•  Na seção a direita no menu de opções, a opção "Mostrar Comentários Resolvidos" mostra os comentários marcados como resolvidos(resolved) abaixo
+<br>
+• Para voltar o comentário resolvido, basta clicar novamente no "Resolvido" para "des-resolver", voltando assim o comentário ao local
+<br>
+• Clicando no topo do comentário é possível move-lo para o local desejado, mas mantendo o comentário no local do design
 <br>
