@@ -56,3 +56,14 @@ Explicação básica do programa Figma para trabalhos em UX
 <br>
 • Para fazer uma linha curvada, seleciona no menu de projeto acima na ferramenta de curvatura, ao lado da caneta e, clicando na ancora desejada, fazendo uma curva perfeita, podendo trabalhar com ela inteira ou nas arestas separadas
 <br>
+<h5>TEXTOS</h5>
+• Text(texto) simples e fácil como qualquer outro editor de texto, possui as mesmas ideias e ferramentas de editores de texto
+<br>
+• Para seleciona-lo, clica no ícone com a letra T no menu superior do projeto, basta dar um clique na área desejada e digitar o texto, a layer fica com o texto escrito no nome
+<br>
+• É possível digitar em uma caixa(box) que quando chegar ao limite, quebra a linha, basta segura e arrastar o mouse com o tamanho da caixa desejado ao invés de apenas um clique, mas somente limita na horizontal, quando chegar ao limite da vertical continua digitando
+<br>
+• Na seção ao lado direito, a opção de "Altura Fixa" permanece a caixa estática, com a "Altura Automatica" acompanha a digitação aumentando a caixa conforme for preciso
+<br>
+• Na opção de tamanho da fonte, pode escolher o tamanho desejado, caso pressione shift será aumentado de 8 em 8
+<br>
