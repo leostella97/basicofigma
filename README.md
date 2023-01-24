@@ -131,4 +131,4 @@ Explicação básica do programa Figma para trabalhos em UX
 <br>
 • Seleciona os dois e na seção a direita, clicar em "combinar como Variante(Combine as Variant)"
 <br>
-• Clicando em algum objetivo, surge a opção de "ligação(hug)" para outro elemento/componente que coloca onde quer que a ação vá, então, na aba de Protótipos(Prototypes) na seção a direita surge a área de "Interações(Interactions)"
+• Clicando em algum objetivo, surge a opção de "ligação(hug)" para outro elemento/componente que coloca onde quer que a ação vá, então, na aba de Protótipos(Prototypes) na seção a direita surge a área de "Interações(Interactions)" 
