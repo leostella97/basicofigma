@@ -1,4 +1,4 @@
-# basicofigma
+# Figma Básico
 Explicação básica do programa Figma para trabalhos em UX
 <h3>Figma</h3>
 <h5>SHAPES -</h5>
