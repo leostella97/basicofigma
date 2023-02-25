@@ -3,7 +3,7 @@ Explicação básica do programa Figma para trabalhos em UX
 <h3>Figma</h3>
 <h5>SHAPES -</h5>
 • Traduzido para português, significa "formas"
-<br> 
+<br>
 • Ele representa um elemento gráfico como quadrado, retângulo, elipse entre outros
 <br>
 • Segurando o shift faz o shape com a proporção igual
